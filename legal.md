@@ -1,7 +1,7 @@
 ---
 title: Légal
 ---
-Ce site internet appartient à Fanny Cheung. Pour me contacter, vous pouvez passer par [les plateformes où je suis le plus souvent](https://ynote.hk/contact/) ou à l’adresse admin[arobase]ynote.hk.
+Ce site internet  [la-papeterie-libre.fr](https://la-papeterie-libre.fr)  appartient à Fanny Cheung. Pour me contacter, vous pouvez passer par [les plateformes où je suis le plus souvent](https://ynote.hk/contact/) ou à l’adresse admin[arobase]ynote.hk.
 
 ## Propriété intellectuelle
 
@@ -29,6 +29,6 @@ SIREN :  808 709 794
 
 Quand un site [GitHub Pages](https://docs.github.com/fr/pages/getting-started-with-github-pages/about-github-pages) est visité, l’adresse IP du visiteur est journalisée et stockée à des fins de sécurité, que le visiteur se soit ou non connecté à GitHub. Pour plus d’informations sur les pratiques de sécurité de GitHub, consultez la [Déclaration de confidentialité de GitHub](https://docs.github.com/fr/site-policy/github-terms/github-terms-of-service).
 
-Vous pouvez également lire la [Notification concernant les droits de l’UE en matière de protection des données](https://docs.github.com/fr/site-policy/privacy-policies/github-privacy-statement#european-data-protection-rights-notice)
+Vous pouvez également lire la [Notification concernant les droits de l’UE en matière de protection des données](https://docs.github.com/fr/site-policy/privacy-policies/github-privacy-statement#european-data-protection-rights-notice) de GitHub.
 
-En dehors des informations recueillies par GitHub, le site de La Papeterie ne recueille pas de données personnelles.
+En dehors des informations recueillies par GitHub, le site [la-papeterie-libre.fr](https://la-papeterie-libre.fr) ne recueille pas de données personnelles.
