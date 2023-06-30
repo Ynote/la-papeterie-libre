@@ -7,7 +7,6 @@ J’aimerais que cette boutique soit le début d’une réflexion commune sur le
 
 Quand j’ai commencé à réfléchir à ce projet, j’ai écrit [quelques mots](https://ynote.hk/mots/processus-de-creation/papier-a-lettre-et-gribouillis.html) que vous pouvez parcourir sur mon site.
 
-
-À terme, j’aimerais rendre toutes les créations libres de droit. En attendant de mieux définir mon projet, toutes les créations sont sous la licence [Creative Commons 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
+À terme, j’aimerais rendre toutes les créations libres de droit. En attendant de mieux définir mon projet, toutes les créations publiées d'ici là seront sous la licence [Creative Commons 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
 
 💜 La Papeterie Libre est financée par les personnes qui me soutiennent via [ma page Patreon](https://www.patreon.com/ynote_hk) ou [ma page Liberapay](https://liberapay.com/Ynote_hk/). Un grand merci à elleux !
