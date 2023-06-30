@@ -15,6 +15,8 @@ Vous êtes autorisé à partager (copier, distribuer et communiquer le matériel
 
 Pour toute œuvre dérivée de ces créations, l’attribution obligatoire **ne vous permet pas d’utiliser mon identité pour promouvoir votre œuvre** ou m’associer aux valeurs de vos projets.
 
+À terme, j’aimerais rendre toutes les créations libres de droit. En attendant de mieux définir mon projet, toutes les créations publiées d'ici là seront sous la licence [Creative Commons 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
+
 ## Hébergement
 
 Ce site est hébergé sur [GitHub Pages](https://docs.github.com/fr/pages/getting-started-with-github-pages/about-github-pages).
