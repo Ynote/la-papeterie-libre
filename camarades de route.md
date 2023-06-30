@@ -1,7 +1,9 @@
 ---
 title: Camarades de route
 ---
-# Camarades de route de La Papeterie Libre 
+Cette page liste les projets personnels ou collectifs qui proposent des choses à imprimer chez soi. Vous pouvez m'écrire si vous avez d'autres artistes ou illustrateurices en tête pour enrichir cette liste.
+
+À terme, lorsque [Scribouilli](https://scribouilli.lechappeebelle.team/) sera ouvert à d'autres plateformes git et à des organisations, j'envisage de partager la mise à jour du site à d'autres personnes.
 
 ## Illustration
 
