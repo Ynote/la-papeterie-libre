@@ -1,7 +1,7 @@
 ---
 title: Légal
 ---
-Ce site internet  [la-papeterie-libre.fr](https://la-papeterie-libre.fr)  appartient à Fanny Cheung. Pour me contacter, vous pouvez passer par [les plateformes où je suis le plus souvent](https://ynote.hk/contact/) ou à l’adresse admin[arobase]ynote.hk.
+Ce site internet  [la-papeterie-libre.fr](https://la-papeterie-libre.fr)  appartient à Fanny Cheung. Pour me contacter, vous pouvez m'écrire par courriel à l'adresse suivante  fanny[arobase]la-papeterie-libre.fr.
 
 ## Propriété intellectuelle
 
