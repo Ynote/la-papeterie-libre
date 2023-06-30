@@ -12,3 +12,11 @@ Quand j’ai commencé à réfléchir à ce projet, j’ai écrit [quelques mots
 À terme, j’aimerais rendre toutes les créations libres de droit. En attendant de mieux définir mon projet, toutes les créations publiées d'ici là seront sous la licence [Creative Commons 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
 
 💜 La Papeterie Libre est financée par les personnes qui me soutiennent via [ma page Patreon](https://www.patreon.com/ynote_hk) ou [ma page Liberapay](https://liberapay.com/Ynote_hk/). Un grand merci à elleux !
+
+## Contact
+
+Vous pouvez me joindre par courriel à l'adresse fanny[arobase]la-papeterie-libre.fr.
+
+Si vous souhaitez participer à ce projet, vous pouvez m'écrire sans souci. Je prendrai le temps de vous répondre en fonction de mon énergie du moment.
+
+À terme, lorsque [Scribouilli](https://scribouilli.lechappeebelle.team/) sera ouvert à d'autres plateformes git et à des organisations, j'envisage de partager la mise à jour du site à d'autres personnes.
