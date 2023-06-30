@@ -57,13 +57,3 @@ Un webcomic libre et open-source financé directement par ses lecteurs pour chan
 
 **À lire en ligne** : des épisodes du webcomic
 **À télécharger** : des illustrations, des fonds d'écrans
-
-## Modération
-
-Ce document est ouvert à toustes, mais c'est un espace que je, aka [Fanny](https://ynote.hk/contact), gère.
-
-Si je vois passer des choses qui vont à l'encontre de [la convention de Contributor Covenant](https://www.contributor-covenant.org/), j'interviendrai en conséquence. Je ne fais pas de compromis avec la connerie, l'exclusion ou la violence.
-
-Si vous voyez passer des choses qui vous gênent, dérangent ou révoltent, n'hésitez pas à venir m'en parler. On s'en occupera ensemble.
-
-Si ça devient trop lourd ou compliqué à gérer, je supprimerai simplement cette page.
