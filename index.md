@@ -1,5 +1,5 @@
 ---
-title: Bienvenue :)
+title: Accueil
 ---
 # La Papeterie Libre
 
