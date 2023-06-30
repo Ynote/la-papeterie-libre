@@ -5,7 +5,7 @@ Je vous partage la papeterie disponible ici sous forme de liens.
 
 ## Papiers à lettre
 
-|   |   |
+| Aperçu | Lien de téléchargement  |
 |---------------------------|:-----------:|
 | !Vue du dessus d'un bureau sur lequel est posé une feuille de papier A4
 illustrée en pied de page avec des dessins de mousses, champignons et petits
