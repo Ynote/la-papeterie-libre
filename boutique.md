@@ -24,6 +24,8 @@ Je vous partage la papeterie disponible ici sous forme de liens. Peut-être que 
 
 ## Anti-coloriages
 
+En savoir plus sur les [anti-coloriages](https://apprendreaeduquer.fr/anti-coloriage-creativite-enfants/). 
+
 - **Boisson du matin** : Dessin à compléter pour imaginer la boisson qu'on prend ou qu'on aimerait prendre au petit-déjeuner [Télécharger](https://boutique.la-papeterie-libre.fr/anti-coloriages/la-papeterie-libre-002_anti-coloriage-modele-1/la-papeterie-libre-002_anti-coloriage-modele-1.pdf) [_Voir l'aperçu_](https://boutique.la-papeterie-libre.fr/anti-coloriages/la-papeterie-libre-002_anti-coloriage-modele-1/la-papeterie-libre-002_anti-coloriage-modele-1.jpg)
 - **Bruit du jour** : Dessin à compléter qui invite à écouter les bruits de notre quotidien [Télécharger](https://boutique.la-papeterie-libre.fr/anti-coloriages/la-papeterie-libre-002_anti-coloriage-modele-2/la-papeterie-libre-002_anti-coloriage-modele-2.pdf) [_Voir l'aperçu_](https://boutique.la-papeterie-libre.fr/anti-coloriages/la-papeterie-libre-002_anti-coloriage-modele-2/la-papeterie-libre-002_anti-coloriage-modele-2.jpg)
 - **Les couleurs du ciel** : Dessin à compléter pour observer les couleurs que l'on voit dans le ciel [Télécharger](https://boutique.la-papeterie-libre.fr/anti-coloriages/la-papeterie-libre-002_anti-coloriage-modele-3/la-papeterie-libre-002_anti-coloriage-modele-3.pdf) [_Voir l'aperçu_](https://boutique.la-papeterie-libre.fr/anti-coloriages/la-papeterie-libre-002_anti-coloriage-modele-3/la-papeterie-libre-002_anti-coloriage-modele-3.jpg)
