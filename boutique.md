@@ -5,14 +5,14 @@ Je vous partage la papeterie disponible ici sous forme de liens. Peut-être que 
 
 ## Papiers à lettre
 
-- [Papier à lettre A4 - Les Eskjas à l'automne](https://boutique.la-papeterie-libre.fr/papiers-a-lettre/la-papeterie-libre-001_papier-a-lettre-A4.pdf)
-- [Papier à lettre A5 - Les Eskjas à l'automne](https://boutique.la-papeterie-libre.fr/public/papiers-a-lettre/la-papeterie-libre-001_papier-a-lettre-A5.pdf)
-- [Papier à lettre A5 - Les Eskjas d'hiver](https://boutique.la-papeterie-libre.fr/papiers-a-lettre/la-papeterie-libre-002_papier-%c3%a0-lettre-A5.pdf)
-- [Papier à lettre A6, modèle 1 - Les Eskjas à l'automne](https://boutique.la-papeterie-libre.fr/public/papiers-a-lettre/la-papeterie-libre-001_papier-a-notes-A6_modele-1.pdf)
-- [Papier à lettre A6, modèle 2 - Les Eskjas à l'automne](https://boutique.la-papeterie-libre.fr/public/papiers-a-lettre/la-papeterie-libre-001_papier-a-notes-A6_modele-2.pdf)
-- [Papier à lettre A6, modèle 3 - Les Eskjas à l'automne](https://boutique.la-papeterie-libre.fr/public/papiers-a-lettre/la-papeterie-libre-001_papier-a-notes-A6_modele-3.pdf)
+- [![](https://boutique.la-papeterie-libre.fr/papiers-a-lettre/la-papeterie-libre-001_papier-a-lettre-A4/la-papeterie-libre-001_papier-a-lettre-A4.jpg) Papier à lettre A4 - Les Eskjas à l'automne](https://boutique.la-papeterie-libre.fr/papiers-a-lettre/la-papeterie-libre-001_papier-a-lettre-A4/la-papeterie-libre-001_papier-a-lettre-A4.pdf)
+- [Papier à lettre A5 - Les Eskjas à l'automne](https://boutique.la-papeterie-libre.fr/public/papiers-a-lettre/la-papeterie-libre-001_papier-a-lettre-A5/la-papeterie-libre-001_papier-a-lettre-A5.pdf)
+- [Papier à lettre A5 - Les Eskjas d'hiver](https://boutique.la-papeterie-libre.fr/papiers-a-lettre/la-papeterie-libre-002_papier-a-lettre-A5/la-papeterie-libre-002_papier-a-lettre-A5.pdf)
+- [Papier à lettre A6, modèle 1 - Les Eskjas à l'automne](https://boutique.la-papeterie-libre.fr/public/papiers-a-lettre/la-papeterie-libre-001_papier-a-notes-A6_modele-1/la-papeterie-libre-001_papier-a-notes-A6_modele-1.pdf)
+- [Papier à lettre A6, modèle 2 - Les Eskjas à l'automne](https://boutique.la-papeterie-libre.fr/public/papiers-a-lettre/la-papeterie-libre-001_papier-a-notes-A6_modele-2/la-papeterie-libre-001_papier-a-notes-A6_modele-2.pdf)
+- [Papier à lettre A6, modèle 3 - Les Eskjas à l'automne](https://boutique.la-papeterie-libre.fr/public/papiers-a-lettre/la-papeterie-libre-001_papier-a-notes-A6_modele-3/la-papeterie-libre-001_papier-a-notes-A6_modele-3.pdf)
 
 ## Coloriages et anti-coloriages
 
-- [1 coloriage et 1 anti-coloriage](https://boutique.la-papeterie-libre.fr/anti-coloriages/la-papeterie-libre-002_dessin-%c3%a0-compl%c3%a9ter-1.pdf)
-- [2 anti-coloriages pour s'ancrer dans son quotidien](https://boutique.la-papeterie-libre.fr/anti-coloriages/la-papeterie-libre-002_dessin-%c3%a0-compl%c3%a9ter-2.pdf)
+- [1 coloriage et 1 anti-coloriage](https://boutique.la-papeterie-libre.fr/anti-coloriages/la-papeterie-libre-002_dessin-a-completer-1/la-papeterie-libre-002_dessin-a-completer-1.pdf)
+- [2 anti-coloriages pour s'ancrer dans son quotidien](https://boutique.la-papeterie-libre.fr/anti-coloriages/la-papeterie-libre-002_dessin-a-completer-2/la-papeterie-libre-002_dessin-a-completer-2.pdf)
