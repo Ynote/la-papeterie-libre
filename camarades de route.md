@@ -1,5 +1,5 @@
 ---
-title: Camarades de route
+title: "Camarades de route"
 ---
 Cette page liste les projets personnels ou collectifs qui proposent des choses à imprimer chez soi. Vous pouvez m'écrire si vous avez d'autres artistes ou illustrateurices en tête pour enrichir cette liste.
 
