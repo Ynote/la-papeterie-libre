@@ -1,5 +1,6 @@
 ---
 title: "Camarades de route"
+order: 3
 ---
 Cette page liste les projets personnels ou collectifs qui proposent des choses à imprimer chez soi. Vous pouvez m'écrire si vous avez d'autres artistes ou illustrateurices en tête pour enrichir cette liste.
 
