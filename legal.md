@@ -1,5 +1,5 @@
 ---
-title: Légal
+title: "Légal"
 ---
 Ce site internet  [la-papeterie-libre.fr](https://la-papeterie-libre.fr)  appartient à Fanny Cheung. Pour me contacter, vous pouvez m'écrire par courriel à l'adresse suivante  fanny[arobase]la-papeterie-libre.fr.
 
